@@ -13,6 +13,7 @@ This dashboard helps track division-wise sales performance, profitability, and r
 - **Power BI**: Star Schema data modeling, DAX measures, drill-through reports, slicers
 - **Python (Pandas, NumPy)**: Data cleaning, transformation, feature engineering, validation
 - **SQL (MySQL/PostgreSQL)**: Joins, CTEs, Window Functions, Views for data consolidation and analysis
+- **Apache Airflow**: DAG-based orchestration of the daily ETL pipeline (extract → clean → load → quality check → Power BI refresh)
 
 ## Folder Structure
 
@@ -27,6 +28,9 @@ construction-equipment-dashboard/
 │   └── data_cleaning.py                # cleaning & transformation script
 ├── sql/
 │   └── queries.sql                     # analysis queries & view
+├── airflow/
+│   └── dags/
+│       └── equipment_sales_pipeline_dag.py   # Airflow DAG orchestrating the pipeline
 ├── powerbi/
 │   └── dashboard.pbix                  # Power BI dashboard file
 └── screenshots/
@@ -40,6 +44,7 @@ construction-equipment-dashboard/
 - Drill-through reports from division summary to dealer-level detail
 - Month-over-month revenue trend analysis
 - Top-performing dealer ranking per division
+- Daily automated ETL pipeline orchestrated with Apache Airflow (extract → clean → load → quality checks → Power BI refresh)
 
 ## How to Run
 
