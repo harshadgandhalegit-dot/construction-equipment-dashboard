@@ -1,0 +1,21 @@
+Date,Division,Region,Product_Model,Units_Sold,Revenue_INR,Cost_INR,Dealer_Name
+2025-01-05,Earthmoving,West,Backhoe Loader 3DX,12,18000000,14500000,Apex Equipment Pune
+2025-01-08,Material Handling,North,Telehandler 530-70,8,9600000,7800000,North India Movers
+2025-01-12,Excavators,South,Excavator 130X,15,22500000,18200000,South Build Machinery
+2025-01-15,Earthmoving,East,Backhoe Loader 3DX Xtra,10,15500000,12600000,East Construction Co
+2025-01-20,Mini Excavators,West,Mini Excavator 19C,20,12000000,9500000,Apex Equipment Pune
+2025-02-03,Material Handling,South,Telehandler 533-105,6,8400000,6900000,South Build Machinery
+2025-02-10,Excavators,North,Excavator 220X,9,16200000,13100000,North India Movers
+2025-02-14,Earthmoving,South,Backhoe Loader 4DX,14,21000000,17000000,South Build Machinery
+2025-02-18,Mini Excavators,East,Mini Excavator 8008,18,9800000,7700000,East Construction Co
+2025-03-02,Material Handling,West,Telehandler 540-170,5,7500000,6200000,Apex Equipment Pune
+2025-03-09,Excavators,East,Excavator 150X,11,17600000,14300000,East Construction Co
+2025-03-15,Earthmoving,North,Backhoe Loader 3DX,13,19500000,15800000,North India Movers
+2025-03-22,Mini Excavators,South,Mini Excavator 19C,22,13200000,10400000,South Build Machinery
+2025-04-04,Excavators,West,Excavator 130X,16,24000000,19500000,Apex Equipment Pune
+2025-04-11,Material Handling,East,Telehandler 530-70,7,8400000,6900000,East Construction Co
+2025-04-19,Earthmoving,East,Backhoe Loader 4DX,9,13500000,11000000,East Construction Co
+2025-05-02,Mini Excavators,North,Mini Excavator 8008,19,10450000,8200000,North India Movers
+2025-05-10,Excavators,South,Excavator 220X,12,21600000,17500000,South Build Machinery
+2025-05-17,Material Handling,North,Telehandler 533-105,6,8400000,6900000,North India Movers
+2025-05-25,Earthmoving,West,Backhoe Loader 3DX Xtra,15,23250000,18800000,Apex Equipment Pune
